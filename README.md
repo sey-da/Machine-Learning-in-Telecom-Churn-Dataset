@@ -1,4 +1,11 @@
-# Machine-Learning-in-Telecom-Churn-Dataset
-Predict behaviour to retain customers.We are analyzing all relevant customer data and develop focused customer retention programs.
+## 📌 Project Overview
+This project aims to predict customer churn in the telecommunications industry using machine learning techniques.
 
-DATA SET: https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets/data
+The objective is to identify customers who are likely to leave and help businesses improve customer retention strategies through data-driven insights.
+
+## 🚀 Key Highlights
+- End-to-end machine learning pipeline  
+- Data preprocessing and feature engineering  
+- Model comparison (Logistic Regression vs Random Forest)  
+- Hyperparameter tuning and cross-validation  
+- Threshold optimization for better prediction performance  
